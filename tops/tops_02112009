@@ -1,0 +1,1452 @@
+<DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+<head>
+<base href="http://www.kfjc.org/">
+<meta http-equiv="content-type" content="text/html; charset=utf-8" />
+<meta http-equiv="content-language" content="en-us" />
+<meta name="robots" content="index,follow">
+<link rel="stylesheet" href="/css/kfjc.css" type="text/css">
+<link rel="shortcut icon" href="/images/nav/triangle.ico">
+<script language="JavaScript" src="/js/exitWarn.js" type="text/JavaScript"></script>
+<script language="JavaScript" src="/js/launchWin.js" type="text/JavaScript"></script>
+<script language="JavaScript" src="/js/launchCatWin.js" type="text/JavaScript"></script>
+<script language="JavaScript" src="/js/loadImg.js" type="text/JavaScript"></script>
+
+<script language="JavaScript" src="/js/noSpam.js" type="text/JavaScript"></script>
+
+<body bgcolor="#FFFFFF" text="#000000" leftmargin="20" topmargin="19" marginheight="19" marginwidth="20">
+
+<table width=640 border=0 cellpadding=0 cellspacing=0>
+	<tr valign=top>
+		<td><img src="/images/common/blank.gif" width=200 height=1 border=0 alt=""></td>
+		<td><img src="/images/common/blank.gif" width=20 height=1 border=0 alt=""></td>
+		<td><img src="/images/common/blank.gif" width=200 height=1 border=0 alt=""></td>
+		<td><img src="/images/common/blank.gif" width=20 height=1 border=0 alt=""></td>
+		<td><img src="/images/common/blank.gif" width=200 height=1 border=0 alt=""></td>
+
+	</tr>
+	<tr valign=top>
+		<td height=70>
+			<a href="/main/index.php" class=nav><b>About KFJC</b></a>
+			<br><a href="/programming/index.php" class=nav><b>Program Schedule</b></a>
+			<br><a href="/promotions/index.php" class=nav><b>Specials and Events</b></a>
+		</td>
+
+		<td height=70>
+			&nbsp;
+		</td>
+		<td height=70>
+			<a href="/netcast/index.php" class=nav><b>Netcast</b></a>
+			<br><a href="/music/index.php" class=nav><b>Music and Playlists</b></a>
+			<br><a href="/funds/index.php" class=nav><b>Donations and Swag</b></a>
+
+			<br>
+		</td>
+		<td height=70>
+			&nbsp;
+		</td>
+		<td height=70>
+			<a href="/index.php" onMouseOver="loadImg('home','/images/nav/kfjc_logo_on.gif');" onMouseOut="loadImg('home','/images/nav/kfjc_logo_off.gif');"><img src="/images/nav/kfjc_logo_off.gif" name="home" width=200 height=70 border=0 alt="KFJC 89.7 FM"></a>
+		</td>
+	</tr><tr valign=top>
+
+		<td height=40 colspan=5>
+			&nbsp;
+		</td>
+	</tr>
+	<tr valign=top>
+		<td height=700>
+
+			<table width=200 border=0 cellpadding=5 cellspacing=1 bgcolor="#FFFFFF">
+				<tr valign=top>
+
+					<td bgcolor="#CECECE">
+						<a href="/music/index.php">Music and Playlists</a>
+					</td>
+				</tr>
+				<tr valign=top>
+					<td bgcolor="#ECECEC">
+						<a href="/md/pl/current_playlist.php">Current DJ Playlist</a>
+					</td>
+
+				</tr>
+				<tr valign=top>
+					<td bgcolor="#ECECEC">
+						<a href="/md/pl/previous_playlist.php">Previous DJ Playlist</a>
+					</td>
+				</tr>
+			<tr valign=top>
+					<td bgcolor="#ECECEC">
+
+						<a href="/music/pl-weekly.php">Archived DJ Playlists</a>
+					</td>
+				</tr>
+					<tr valign=top>
+					<td bgcolor="#ECECEC">
+						<a href="/md/tops">This Week's Most Played</a>
+					</td>
+				</tr>
+
+				<tr valign=top><td><font color="#ECECEC">.</color>
+					</td>
+				</tr>
+				<tr valign=top>
+					<td bgcolor="#ECECEC">
+						<a href="http://spidey.kfjc.org" target="_blank">Music Reviews</a>
+					</td>
+				</tr>
+
+				<tr valign=top>
+					<td bgcolor="#ECECEC">
+						<a href="/music/musicians.php">For Musicians</a>
+					</td>
+				</tr>				
+				<tr valign=top>
+					<td bgcolor="#ECECEC">
+						<a href="/main/contact/list.php">Listeners Mailing List</a>
+
+					</td>
+				</tr>
+				
+<!--			Old reviews - blocked out.	
+				<tr valign=top><td><font color="#ECECEC">.</color>
+					</td>
+				</tr>
+				<tr valign=top>
+					<td bgcolor="#ECECEC">
+						By Popular Demand...
+					</td>
+				</tr>				
+				<tr valign=top>
+					<td bgcolor="#ECECEC">
+						<a href="http://www.spies.com/misc/kfjc/md/reviews">Archived Reviews circa 1996</a>
+					</td>
+				</tr>				
+				<tr valign=top>
+					<td bgcolor="#ECECEC">
+						<a href="http://www.spies.com/misc/kfjc/md/db/search.html">Search Archived Reviews</a>
+					</td>
+				</tr>
+-->				
+				
+			</table>
+
+		</td>
+		<td height=700>
+			&nbsp;
+		</td>
+		<td height=700 colspan=3>
+
+
+		<!-- Begin Top Plays Table -->
+
+
+		<font class="title">Top plays at KFJC</font><br>
+		<font class="subtitle">From February 4 2009 thru February 11 2009</font><br>
+		<p>
+		<table bgcolor="#888888">
+			<tr bgcolor="#ffffff">
+
+				<td><b><u>Plays</u></b></td> <td><b><u>Artist</u></b></td> <td><b><u>Album</u></b></td>
+			</tr>
+
+			<!--start:32046 end:32093 -->
+
+			<tr bgcolor="#ffffff">
+				<td style="color:black"><nobr>12</nobr></td>
+
+				<td style="color:black"><nobr>Orsi, Fabio</nobr></td>
+				<td style="color:black"><nobr>Audio For Lovers</nobr></td>
+			</tr>
+
+			<tr bgcolor="#ffffff">
+				<td style="color:black"><nobr>11</nobr></td>
+				<td style="color:black"><nobr>Various Artists</nobr></td>
+
+				<td style="color:black"><nobr>Nobody's Perfect Part Three</nobr></td>
+			</tr>
+
+			<tr bgcolor="#ffffff">
+				<td style="color:black"><nobr>9</nobr></td>
+				<td style="color:black"><nobr>Various Artists</nobr></td>
+				<td style="color:black"><nobr>7" Up!  Singles Only!  UK 78-82</nobr></td>
+
+			</tr>
+
+			<tr bgcolor="#ffffff">
+				<td style="color:black"><nobr>9</nobr></td>
+				<td style="color:black"><nobr>Hank IV</nobr></td>
+				<td style="color:black"><nobr><a href="http://spidey.kfjc.org/?p=3444">Dirty Poncho / Symptomatic</a></nobr></td>
+			</tr>
+
+			<tr bgcolor="#ffffff">
+				<td style="color:black"><nobr>9</nobr></td>
+				<td style="color:black"><nobr>Gasman, The</nobr></td>
+				<td style="color:black"><nobr>Superlife</nobr></td>
+			</tr>
+
+			<tr bgcolor="#ffffff">
+				<td style="color:black"><nobr>9</nobr></td>
+
+				<td style="color:black"><nobr>Novalima</nobr></td>
+				<td style="color:black"><nobr>Coba Coba</nobr></td>
+			</tr>
+
+			<tr bgcolor="#ffffff">
+				<td style="color:black"><nobr>8</nobr></td>
+				<td style="color:black"><nobr>Nelson, Willie & Asleep At The Wheel</nobr></td>
+
+				<td style="color:black"><nobr>Willie and The Wheel</nobr></td>
+			</tr>
+
+			<tr bgcolor="#ffffff">
+				<td style="color:black"><nobr>8</nobr></td>
+				<td style="color:black"><nobr>Basic Channel</nobr></td>
+				<td style="color:black"><nobr>BCD</nobr></td>
+
+			</tr>
+
+			<tr bgcolor="#ffffff">
+				<td style="color:black"><nobr>7</nobr></td>
+				<td style="color:black"><nobr>Isolee</nobr></td>
+				<td style="color:black"><nobr>Rest</nobr></td>
+			</tr>
+
+			<tr bgcolor="#ffffff">
+				<td style="color:black"><nobr>7</nobr></td>
+				<td style="color:black"><nobr>Haiku D'etat</nobr></td>
+				<td style="color:black"><nobr>Coup De Theatre</nobr></td>
+			</tr>
+
+			<tr bgcolor="#ffffff">
+				<td style="color:black"><nobr>7</nobr></td>
+
+				<td style="color:black"><nobr>Pan/Tone</nobr></td>
+				<td style="color:black"><nobr>Dont Pee On My Tee Pee EP</nobr></td>
+			</tr>
+
+			<tr bgcolor="#ffffff">
+				<td style="color:black"><nobr>7</nobr></td>
+				<td style="color:black"><nobr>Pieces of Peace</nobr></td>
+
+				<td style="color:black"><nobr><a href="http://spidey.kfjc.org/?p=3299">Pieces of Peace</a></nobr></td>
+			</tr>
+
+			<tr bgcolor="#ffffff">
+				<td style="color:black"><nobr>7</nobr></td>
+				<td style="color:black"><nobr>Davis, Guy</nobr></td>
+				<td style="color:black"><nobr>Sweetheart Like You</nobr></td>
+
+			</tr>
+
+			<tr bgcolor="#ffffff">
+				<td style="color:black"><nobr>7</nobr></td>
+				<td style="color:black"><nobr>Chapman, Michael</nobr></td>
+				<td style="color:black"><nobr><a href="http://spidey.kfjc.org/?p=3314">Time Past & Time Passing</a></nobr></td>
+			</tr>
+
+			<tr bgcolor="#ffffff">
+				<td style="color:black"><nobr>7</nobr></td>
+				<td style="color:black"><nobr>Fang Island</nobr></td>
+				<td style="color:black"><nobr><a href="http://spidey.kfjc.org/?p=3302">Sky Gardens EP</a></nobr></td>
+			</tr>
+
+			<tr bgcolor="#ffffff">
+
+				<td style="color:black"><nobr>7</nobr></td>
+				<td style="color:black"><nobr>Short Rabbits</nobr></td>
+				<td style="color:black"><nobr>Dying By Inches</nobr></td>
+			</tr>
+
+			<tr bgcolor="#ffffff">
+				<td style="color:black"><nobr>7</nobr></td>
+
+				<td style="color:black"><nobr>Tecumseh</nobr></td>
+				<td style="color:black"><nobr>Avalanche and Inundation</nobr></td>
+			</tr>
+
+			<tr bgcolor="#ffffff">
+				<td style="color:black"><nobr>6</nobr></td>
+				<td style="color:black"><nobr>OneThirtyEight</nobr></td>
+
+				<td style="color:black"><nobr><a href="http://spidey.kfjc.org/?p=3446">London Transmissions</a></nobr></td>
+			</tr>
+
+			<tr bgcolor="#ffffff">
+				<td style="color:black"><nobr>6</nobr></td>
+				<td style="color:black"><nobr>Olson, Mark & Louris, Gary</nobr></td>
+				<td style="color:black"><nobr>Ready For The Flood</nobr></td>
+
+			</tr>
+
+			<tr bgcolor="#ffffff">
+				<td style="color:black"><nobr>6</nobr></td>
+				<td style="color:black"><nobr>Various Artists</nobr></td>
+				<td style="color:black"><nobr><a href="http://spidey.kfjc.org/?p=3344">Topless Women Talk About Their Lives</a></nobr></td>
+			</tr>
+
+			<tr bgcolor="#ffffff">
+				<td style="color:black"><nobr>6</nobr></td>
+				<td style="color:black"><nobr>Bruckner, Michael</nobr></td>
+				<td style="color:black"><nobr><a href="http://spidey.kfjc.org/?p=3338">Days In The Sun</a></nobr></td>
+			</tr>
+
+			<tr bgcolor="#ffffff">
+				<td style="color:black"><nobr>6</nobr></td>
+
+				<td style="color:black"><nobr>Ellis, Alton</nobr></td>
+				<td style="color:black"><nobr><a href="http://spidey.kfjc.org/?p=3337">Mr. Soul of Jamaica</a></nobr></td>
+			</tr>
+
+			<tr bgcolor="#ffffff">
+				<td style="color:black"><nobr>6</nobr></td>
+				<td style="color:black"><nobr>Os Mutantes</nobr></td>
+
+				<td style="color:black"><nobr>a Divina Comedia Ou Ando Meio Desligado</nobr></td>
+			</tr>
+
+			<tr bgcolor="#ffffff">
+				<td style="color:black"><nobr>6</nobr></td>
+				<td style="color:black"><nobr>Last Poets, The</nobr></td>
+				<td style="color:black"><nobr>Last Poets, The</nobr></td>
+
+			</tr>
+
+			<tr bgcolor="#ffffff">
+				<td style="color:black"><nobr>6</nobr></td>
+				<td style="color:black"><nobr>Namlook</nobr></td>
+				<td style="color:black"><nobr>Subharmonic Atoms</nobr></td>
+			</tr>
+
+			<tr bgcolor="#ffffff">
+				<td style="color:black"><nobr>6</nobr></td>
+				<td style="color:black"><nobr>Minilogue</nobr></td>
+				<td style="color:black"><nobr>Mr. Mustafa</nobr></td>
+			</tr>
+
+			<tr bgcolor="#ffffff">
+				<td style="color:black"><nobr>6</nobr></td>
+
+				<td style="color:black"><nobr>Various Artists</nobr></td>
+				<td style="color:black"><nobr>Muting The Noise 01</nobr></td>
+			</tr>
+
+			<tr bgcolor="#ffffff">
+				<td style="color:black"><nobr>6</nobr></td>
+				<td style="color:black"><nobr>Rodgers, Jimmie</nobr></td>
+
+				<td style="color:black"><nobr><a href="http://spidey.kfjc.org/?p=3327">Train Whistle Blues</a></nobr></td>
+			</tr>
+
+			<tr bgcolor="#ffffff">
+				<td style="color:black"><nobr>6</nobr></td>
+				<td style="color:black"><nobr>Crazy Dreams Band</nobr></td>
+				<td style="color:black"><nobr><a href="http://spidey.kfjc.org/?p=3317">Crazy Dreams Band</a></nobr></td>
+
+			</tr>
+
+			<tr bgcolor="#ffffff">
+				<td style="color:black"><nobr>6</nobr></td>
+				<td style="color:black"><nobr>Sun Ra and His Solar Arkestra</nobr></td>
+				<td style="color:black"><nobr><a href="http://spidey.kfjc.org/?p=3249">Secrets of The Sun</a></nobr></td>
+			</tr>
+
+			<tr bgcolor="#ffffff">
+				<td style="color:black"><nobr>6</nobr></td>
+				<td style="color:black"><nobr>Kiyama, Akiko</nobr></td>
+				<td style="color:black"><nobr><a href="http://spidey.kfjc.org/?p=3333">7 Years</a></nobr></td>
+			</tr>
+
+			<tr bgcolor="#ffffff">
+				<td style="color:black"><nobr>6</nobr></td>
+
+				<td style="color:black"><nobr>Noto, Alva</nobr></td>
+				<td style="color:black"><nobr><a href="http://spidey.kfjc.org/?p=3331">Unitxt</a></nobr></td>
+			</tr>
+
+			<tr bgcolor="#ffffff">
+				<td style="color:black"><nobr>6</nobr></td>
+				<td style="color:black"><nobr>Raccoo-oo-oon</nobr></td>
+
+				<td style="color:black"><nobr>Raccoo-oo-oon</nobr></td>
+			</tr>
+
+			<tr bgcolor="#ffffff">
+				<td style="color:black"><nobr>6</nobr></td>
+				<td style="color:black"><nobr>Schnauss, Ulrich</nobr></td>
+				<td style="color:black"><nobr>Stars EP</nobr></td>
+
+			</tr>
+
+			<tr bgcolor="#ffffff">
+				<td style="color:black"><nobr>6</nobr></td>
+				<td style="color:black"><nobr>Grieves With Budo</nobr></td>
+				<td style="color:black"><nobr>88 Keys & Counting</nobr></td>
+			</tr>
+
+			<tr bgcolor="#ffffff">
+				<td style="color:black"><nobr>6</nobr></td>
+				<td style="color:black"><nobr>People Under The Stairs</nobr></td>
+				<td style="color:black"><nobr>Fun Dmc</nobr></td>
+			</tr>
+
+			<tr bgcolor="#ffffff">
+
+				<td style="color:black"><nobr>6</nobr></td>
+				<td style="color:black"><nobr>Nadja</nobr></td>
+				<td style="color:black"><nobr><a href="http://spidey.kfjc.org/?p=3447">Skin Turns to Glass</a></nobr></td>
+			</tr>
+
+			<tr bgcolor="#ffffff">
+				<td style="color:black"><nobr>5</nobr></td>
+
+				<td style="color:black"><nobr>Nordine, Ken</nobr></td>
+				<td style="color:black"><nobr><a href="http://spidey.kfjc.org/?p=3439">Stare With Your Ears</a></nobr></td>
+			</tr>
+
+			<tr bgcolor="#ffffff">
+				<td style="color:black"><nobr>5</nobr></td>
+				<td style="color:black"><nobr>Boston Spaceships</nobr></td>
+
+				<td style="color:black"><nobr>Brown Submarine</nobr></td>
+			</tr>
+
+			<tr bgcolor="#ffffff">
+				<td style="color:black"><nobr>5</nobr></td>
+				<td style="color:black"><nobr>Various Artists</nobr></td>
+				<td style="color:black"><nobr>Bold Beginnings: an Incomplete History of Louisville Punk</nobr></td>
+
+			</tr>
+
+			<tr bgcolor="#ffffff">
+				<td style="color:black"><nobr>5</nobr></td>
+				<td style="color:black"><nobr>El Hijo De Cumbia</nobr></td>
+				<td style="color:black"><nobr>Freestyle De Ritmos</nobr></td>
+			</tr>
+
+			<tr bgcolor="#ffffff">
+				<td style="color:black"><nobr>5</nobr></td>
+				<td style="color:black"><nobr>Lancaster, Byard</nobr></td>
+				<td style="color:black"><nobr>Funny Funky Rib Crib</nobr></td>
+			</tr>
+
+			<tr bgcolor="#ffffff">
+				<td style="color:black"><nobr>5</nobr></td>
+
+				<td style="color:black"><nobr>Imps</nobr></td>
+				<td style="color:black"><nobr>Bring Out The Imps</nobr></td>
+			</tr>
+
+			<tr bgcolor="#ffffff">
+				<td style="color:black"><nobr>5</nobr></td>
+				<td style="color:black"><nobr>Lopez, Francisco</nobr></td>
+
+				<td style="color:black"><nobr>TechnoCalyps</nobr></td>
+			</tr>
+
+			<tr bgcolor="#ffffff">
+				<td style="color:black"><nobr>5</nobr></td>
+				<td style="color:black"><nobr>Quinn, Donovan</nobr></td>
+				<td style="color:black"><nobr>Donovan Quinn & The 13th Month</nobr></td>
+
+			</tr>
+
+			<tr bgcolor="#ffffff">
+				<td style="color:black"><nobr>5</nobr></td>
+				<td style="color:black"><nobr>Various Artists</nobr></td>
+				<td style="color:black"><nobr>Paper Rad Family Band</nobr></td>
+			</tr>
+
+			<tr bgcolor="#ffffff">
+				<td style="color:black"><nobr>5</nobr></td>
+				<td style="color:black"><nobr>Bachs, The</nobr></td>
+				<td style="color:black"><nobr>Out of The Bachs</nobr></td>
+			</tr>
+
+			<tr bgcolor="#ffffff">
+				<td style="color:black"><nobr>5</nobr></td>
+
+				<td style="color:black"><nobr>My Country of Illusion</nobr></td>
+				<td style="color:black"><nobr><a href="http://spidey.kfjc.org/?p=3145">Jambient Excursions</a></nobr></td>
+			</tr>
+
+			<tr bgcolor="#ffffff">
+				<td style="color:black"><nobr>5</nobr></td>
+				<td style="color:black"><nobr>Knitting By Twilight</nobr></td>
+
+				<td style="color:black"><nobr>an Evening Out of Town</nobr></td>
+			</tr>
+
+			<tr bgcolor="#ffffff">
+				<td style="color:black"><nobr>5</nobr></td>
+				<td style="color:black"><nobr>Various Artists</nobr></td>
+				<td style="color:black"><nobr><a href="http://spidey.kfjc.org/?p=3456">Sonic Attack (Lords of Light)</a></nobr></td>
+
+			</tr>
+
+			<tr bgcolor="#ffffff">
+				<td style="color:black"><nobr>5</nobr></td>
+				<td style="color:black"><nobr>Lamps</nobr></td>
+				<td style="color:black"><nobr><a href="http://spidey.kfjc.org/?p=3330">Songs of Sexual Frustration EP</a></nobr></td>
+			</tr>
+
+			<tr bgcolor="#ffffff">
+				<td style="color:black"><nobr>5</nobr></td>
+				<td style="color:black"><nobr>Unit Breed, The</nobr></td>
+				<td style="color:black"><nobr><a href="http://spidey.kfjc.org/?p=3149">Hello Sweet Nothings</a></nobr></td>
+			</tr>
+
+			<tr bgcolor="#ffffff">
+				<td style="color:black"><nobr>5</nobr></td>
+
+				<td style="color:black"><nobr>Jones, Wizz</nobr></td>
+				<td style="color:black"><nobr><a href="http://spidey.kfjc.org/?p=3147">Legendary Me, The</a></nobr></td>
+			</tr>
+
+			<tr bgcolor="#ffffff">
+				<td style="color:black"><nobr>5</nobr></td>
+				<td style="color:black"><nobr>Ovo</nobr></td>
+
+				<td style="color:black"><nobr><a href="http://spidey.kfjc.org/?p=3334">Crocevia</a></nobr></td>
+			</tr>
+
+			<tr bgcolor="#ffffff">
+				<td style="color:black"><nobr>5</nobr></td>
+				<td style="color:black"><nobr>Bass Communion</nobr></td>
+				<td style="color:black"><nobr>II/III</nobr></td>
+
+			</tr>
+
+			<tr bgcolor="#ffffff">
+				<td style="color:black"><nobr>5</nobr></td>
+				<td style="color:black"><nobr>Jacuzzi Boys</nobr></td>
+				<td style="color:black"><nobr>Island Ave</nobr></td>
+			</tr>
+
+			<tr bgcolor="#ffffff">
+				<td style="color:black"><nobr>5</nobr></td>
+				<td style="color:black"><nobr>Girl Talk</nobr></td>
+				<td style="color:black"><nobr><a href="http://spidey.kfjc.org/?p=3322">Bone Hard Zaggin</a></nobr></td>
+			</tr>
+
+			<tr bgcolor="#ffffff">
+				<td style="color:black"><nobr>4</nobr></td>
+
+				<td style="color:black"><nobr>Volcano Suns</nobr></td>
+				<td style="color:black"><nobr><a href="http://spidey.kfjc.org/?p=3454">All Night Long Lotus Party</a></nobr></td>
+			</tr>
+
+			<tr bgcolor="#ffffff">
+				<td style="color:black"><nobr>4</nobr></td>
+				<td style="color:black"><nobr>Crowned Heads of Europe, The</nobr></td>
+
+				<td style="color:black"><nobr>Witnesseth</nobr></td>
+			</tr>
+
+			<tr bgcolor="#ffffff">
+				<td style="color:black"><nobr>4</nobr></td>
+				<td style="color:black"><nobr>King Tubby</nobr></td>
+				<td style="color:black"><nobr>King Tubby Meets The Rest In Dub</nobr></td>
+
+			</tr>
+
+			<tr bgcolor="#ffffff">
+				<td style="color:black"><nobr>4</nobr></td>
+				<td style="color:black"><nobr>Baker, Steven</nobr></td>
+				<td style="color:black"><nobr><a href="http://spidey.kfjc.org/?p=3339">Lunar Etudes - Time Differentials</a></nobr></td>
+			</tr>
+
+			<tr bgcolor="#ffffff">
+				<td style="color:black"><nobr>4</nobr></td>
+				<td style="color:black"><nobr>Low Res</nobr></td>
+				<td style="color:black"><nobr>Look Back With Knife</nobr></td>
+			</tr>
+
+			<tr bgcolor="#ffffff">
+				<td style="color:black"><nobr>4</nobr></td>
+
+				<td style="color:black"><nobr>Maleficia</nobr></td>
+				<td style="color:black"><nobr>Maleficia</nobr></td>
+			</tr>
+
+			<tr bgcolor="#ffffff">
+				<td style="color:black"><nobr>4</nobr></td>
+				<td style="color:black"><nobr>Planetary</nobr></td>
+
+				<td style="color:black"><nobr>a Matter of Sound/Inner-View</nobr></td>
+			</tr>
+
+			<tr bgcolor="#ffffff">
+				<td style="color:black"><nobr>4</nobr></td>
+				<td style="color:black"><nobr>Sagan</nobr></td>
+				<td style="color:black"><nobr><a href="http://spidey.kfjc.org/?p=3321">Resisting Pleasures</a></nobr></td>
+
+			</tr>
+
+			<tr bgcolor="#ffffff">
+				<td style="color:black"><nobr>4</nobr></td>
+				<td style="color:black"><nobr>Skein, The: Andrea Parkins and Jessica Constable</nobr></td>
+				<td style="color:black"><nobr><a href="http://spidey.kfjc.org/?p=3315">Cities and Eyes</a></nobr></td>
+			</tr>
+
+			<tr bgcolor="#ffffff">
+				<td style="color:black"><nobr>4</nobr></td>
+				<td style="color:black"><nobr>Luminescent Orchestrii</nobr></td>
+				<td style="color:black"><nobr>Neptune's Daughter</nobr></td>
+			</tr>
+
+			<tr bgcolor="#ffffff">
+				<td style="color:black"><nobr>4</nobr></td>
+
+				<td style="color:black"><nobr>Nakamaura, Toshimaru / Trayle, Mark</nobr></td>
+				<td style="color:black"><nobr>Stationary</nobr></td>
+			</tr>
+
+			<tr bgcolor="#ffffff">
+				<td style="color:black"><nobr>4</nobr></td>
+				<td style="color:black"><nobr>Various Artists</nobr></td>
+
+				<td style="color:black"><nobr>Wierd Records Compilation</nobr></td>
+			</tr>
+
+			<tr bgcolor="#ffffff">
+				<td style="color:black"><nobr>4</nobr></td>
+				<td style="color:black"><nobr>Sixteens</nobr></td>
+				<td style="color:black"><nobr><a href="http://spidey.kfjc.org/?p=3255">Glacier, The</a></nobr></td>
+
+			</tr>
+
+			<tr bgcolor="#ffffff">
+				<td style="color:black"><nobr>4</nobr></td>
+				<td style="color:black"><nobr>Magic Lantern</nobr></td>
+				<td style="color:black"><nobr>Magic Lantern</nobr></td>
+			</tr>
+
+			<tr bgcolor="#ffffff">
+				<td style="color:black"><nobr>4</nobr></td>
+				<td style="color:black"><nobr>Terminal Sound System</nobr></td>
+				<td style="color:black"><nobr><a href="http://spidey.kfjc.org/?p=3310">Constructing Towers</a></nobr></td>
+			</tr>
+
+			<tr bgcolor="#ffffff">
+				<td style="color:black"><nobr>4</nobr></td>
+
+				<td style="color:black"><nobr>Holtkamp, Koen</nobr></td>
+				<td style="color:black"><nobr>Field Rituals</nobr></td>
+			</tr>
+
+			<tr bgcolor="#ffffff">
+				<td style="color:black"><nobr>4</nobr></td>
+				<td style="color:black"><nobr>Plastic People of The Universe, The</nobr></td>
+
+				<td style="color:black"><nobr>Magor's Shem 40 Year Anniversary Tour Ppu 1968-2008</nobr></td>
+			</tr>
+
+			<tr bgcolor="#ffffff">
+				<td style="color:black"><nobr>4</nobr></td>
+				<td style="color:black"><nobr>Thee Oh Sees</nobr></td>
+				<td style="color:black"><nobr>Peanut Butter Oven Ep</nobr></td>
+
+			</tr>
+
+			<tr bgcolor="#ffffff">
+				<td style="color:black"><nobr>4</nobr></td>
+				<td style="color:black"><nobr>Sisters</nobr></td>
+				<td style="color:black"><nobr><a href="http://spidey.kfjc.org/?p=3319">Everybody</a></nobr></td>
+			</tr>
+
+			<tr bgcolor="#ffffff">
+				<td style="color:black"><nobr>4</nobr></td>
+				<td style="color:black"><nobr>Brunnen</nobr></td>
+				<td style="color:black"><nobr><a href="http://spidey.kfjc.org/?p=3332">Swoon</a></nobr></td>
+			</tr>
+
+			<tr bgcolor="#ffffff">
+				<td style="color:black"><nobr>4</nobr></td>
+
+				<td style="color:black"><nobr>White Lung</nobr></td>
+				<td style="color:black"><nobr><a href="http://spidey.kfjc.org/?p=3326">Magazine</a></nobr></td>
+			</tr>
+
+			<tr bgcolor="#ffffff">
+				<td style="color:black"><nobr>4</nobr></td>
+				<td style="color:black"><nobr>Mahjongg</nobr></td>
+
+				<td style="color:black"><nobr><a href="http://spidey.kfjc.org/?p=3323">Dub Narcotic Disco Plate</a></nobr></td>
+			</tr>
+
+			<tr bgcolor="#ffffff">
+				<td style="color:black"><nobr>4</nobr></td>
+				<td style="color:black"><nobr>Eddy Current Suppression Ring</nobr></td>
+				<td style="color:black"><nobr>Primary Colours</nobr></td>
+
+			</tr>
+
+			<tr bgcolor="#ffffff">
+				<td style="color:black"><nobr>4</nobr></td>
+				<td style="color:black"><nobr>Acid Mothers Temple & The Melting Paraiso U.F.O.</nobr></td>
+				<td style="color:black"><nobr>Crystal Rainbow Pyramid Under The Stars</nobr></td>
+			</tr>
+
+			<tr bgcolor="#ffffff">
+				<td style="color:black"><nobr>4</nobr></td>
+				<td style="color:black"><nobr>Nautilus</nobr></td>
+				<td style="color:black"><nobr><a href="http://spidey.kfjc.org/?p=3253">Assateague</a></nobr></td>
+			</tr>
+
+			<tr bgcolor="#ffffff">
+
+				<td style="color:black"><nobr>4</nobr></td>
+				<td style="color:black"><nobr>Sic Alps</nobr></td>
+				<td style="color:black"><nobr><a href="http://spidey.kfjc.org/?p=3257">United</a></nobr></td>
+			</tr>
+
+			<tr bgcolor="#ffffff">
+				<td style="color:black"><nobr>4</nobr></td>
+
+				<td style="color:black"><nobr>Uton</nobr></td>
+				<td style="color:black"><nobr>Radio Metaphysica!</nobr></td>
+			</tr>
+
+			<tr bgcolor="#ffffff">
+				<td style="color:black"><nobr>3</nobr></td>
+				<td style="color:black"><nobr>Garson, Mort</nobr></td>
+
+				<td style="color:black"><nobr><a href="http://spidey.kfjc.org/?p=3441">Black Mass Lucifer</a></nobr></td>
+			</tr>
+
+			<tr bgcolor="#ffffff">
+				<td style="color:black"><nobr>3</nobr></td>
+				<td style="color:black"><nobr>Made In Mexico</nobr></td>
+				<td style="color:black"><nobr>Guerillaton</nobr></td>
+
+			</tr>
+
+			<tr bgcolor="#ffffff">
+				<td style="color:black"><nobr>3</nobr></td>
+				<td style="color:black"><nobr>DJ Rupture & Andy Moor</nobr></td>
+				<td style="color:black"><nobr>Patches</nobr></td>
+			</tr>
+
+			<tr bgcolor="#ffffff">
+				<td style="color:black"><nobr>3</nobr></td>
+				<td style="color:black"><nobr>Various Artists</nobr></td>
+				<td style="color:black"><nobr>Sonic Attack</nobr></td>
+			</tr>
+
+			<tr bgcolor="#ffffff">
+
+				<td style="color:black"><nobr>3</nobr></td>
+				<td style="color:black"><nobr>Subjects of Desire</nobr></td>
+				<td style="color:black"><nobr>Subjects of Desire</nobr></td>
+			</tr>
+
+			<tr bgcolor="#ffffff">
+				<td style="color:black"><nobr>3</nobr></td>
+
+				<td style="color:black"><nobr>Various Artists</nobr></td>
+				<td style="color:black"><nobr>Shapes 08:02</nobr></td>
+			</tr>
+
+			<tr bgcolor="#ffffff">
+				<td style="color:black"><nobr>3</nobr></td>
+				<td style="color:black"><nobr>Various Artists</nobr></td>
+
+				<td style="color:black"><nobr><a href="http://spidey.kfjc.org/?p=3320">Die Monitr Batss/Les Georges Leningrad</a></nobr></td>
+			</tr>
+
+			<tr bgcolor="#ffffff">
+				<td style="color:black"><nobr>3</nobr></td>
+				<td style="color:black"><nobr>Revolutionary Ensemble</nobr></td>
+				<td style="color:black"><nobr>Beyond The Boundary</nobr></td>
+
+			</tr>
+
+			<tr bgcolor="#ffffff">
+				<td style="color:black"><nobr>3</nobr></td>
+				<td style="color:black"><nobr>Male</nobr></td>
+				<td style="color:black"><nobr>All Are Welcome</nobr></td>
+			</tr>
+
+			<tr bgcolor="#ffffff">
+				<td style="color:black"><nobr>3</nobr></td>
+				<td style="color:black"><nobr>Svarte Greiner</nobr></td>
+				<td style="color:black"><nobr><a href="http://spidey.kfjc.org/?p=3309">Man Bird Dress</a></nobr></td>
+			</tr>
+
+			<tr bgcolor="#ffffff">
+				<td style="color:black"><nobr>3</nobr></td>
+
+				<td style="color:black"><nobr>Various Artists</nobr></td>
+				<td style="color:black"><nobr><a href="http://spidey.kfjc.org/?p=3436">(TRISKAIDEKAPHOBIA) 13,000 Milliseconds</a></nobr></td>
+			</tr>
+
+			<tr bgcolor="#ffffff">
+				<td style="color:black"><nobr>3</nobr></td>
+				<td style="color:black"><nobr>Various Artists</nobr></td>
+
+				<td style="color:black"><nobr>Titan! It's All Pop! Sampler</nobr></td>
+			</tr>
+
+			<tr bgcolor="#ffffff">
+				<td style="color:black"><nobr>3</nobr></td>
+				<td style="color:black"><nobr>Galax</nobr></td>
+				<td style="color:black"><nobr><a href="http://spidey.kfjc.org/?p=3300">Never Ending Space Trackin'</a></nobr></td>
+
+			</tr>
+
+			<tr bgcolor="#ffffff">
+				<td style="color:black"><nobr>3</nobr></td>
+				<td style="color:black"><nobr>Pousseur, Henri</nobr></td>
+				<td style="color:black"><nobr>Electronic Experimental and Microtonal 1953-1999</nobr></td>
+			</tr>
+
+			<tr bgcolor="#ffffff">
+				<td style="color:black"><nobr>3</nobr></td>
+				<td style="color:black"><nobr>DJ Donna Summer</nobr></td>
+				<td style="color:black"><nobr>Panther Tracks Vol. 1</nobr></td>
+			</tr>
+
+			<tr bgcolor="#ffffff">
+				<td style="color:black"><nobr>3</nobr></td>
+
+				<td style="color:black"><nobr>RST</nobr></td>
+				<td style="color:black"><nobr>Tomorrow's Void</nobr></td>
+			</tr>
+
+			<tr bgcolor="#ffffff">
+				<td style="color:black"><nobr>3</nobr></td>
+				<td style="color:black"><nobr>Sheeep</nobr></td>
+
+				<td style="color:black"><nobr><a href="http://spidey.kfjc.org/?p=3297">Ep</a></nobr></td>
+			</tr>
+
+			<tr bgcolor="#ffffff">
+				<td style="color:black"><nobr>3</nobr></td>
+				<td style="color:black"><nobr>Various Artists</nobr></td>
+				<td style="color:black"><nobr>Sonic Attack (psychedelic Warlords)</nobr></td>
+
+			</tr>
+
+			<tr bgcolor="#ffffff">
+				<td style="color:black"><nobr>3</nobr></td>
+				<td style="color:black"><nobr>Wendy and Bonnie</nobr></td>
+				<td style="color:black"><nobr><a href="http://spidey.kfjc.org/?p=3254">Genesis</a></nobr></td>
+			</tr>
+
+			<tr bgcolor="#ffffff">
+				<td style="color:black"><nobr>3</nobr></td>
+				<td style="color:black"><nobr>Liguori, Gianmarco</nobr></td>
+				<td style="color:black"><nobr><a href="http://spidey.kfjc.org/?p=3158">Ancient Flight Text</a></nobr></td>
+			</tr>
+
+			<tr bgcolor="#ffffff">
+				<td style="color:black"><nobr>3</nobr></td>
+
+				<td style="color:black"><nobr>Blaylock, Audie and Redline</nobr></td>
+				<td style="color:black"><nobr>Audie Blaylock and Redline</nobr></td>
+			</tr>
+
+			<tr bgcolor="#ffffff">
+				<td style="color:black"><nobr>3</nobr></td>
+				<td style="color:black"><nobr>Songs For Moms</nobr></td>
+
+				<td style="color:black"><nobr>Worse It Gets The Better, The</nobr></td>
+			</tr>
+
+			<tr bgcolor="#ffffff">
+				<td style="color:black"><nobr>3</nobr></td>
+				<td style="color:black"><nobr>Velocette</nobr></td>
+				<td style="color:black"><nobr>Microcosmik EP</nobr></td>
+
+			</tr>
+
+			<tr bgcolor="#ffffff">
+				<td style="color:black"><nobr>3</nobr></td>
+				<td style="color:black"><nobr>Times New Viking</nobr></td>
+				<td style="color:black"><nobr><a href="http://spidey.kfjc.org/?p=3258">Stay Awake</a></nobr></td>
+			</tr>
+
+			<tr bgcolor="#ffffff">
+				<td style="color:black"><nobr>3</nobr></td>
+				<td style="color:black"><nobr>Sunken Foal</nobr></td>
+				<td style="color:black"><nobr>Fallen Arches</nobr></td>
+			</tr>
+
+			<tr bgcolor="#ffffff">
+				<td style="color:black"><nobr>3</nobr></td>
+
+				<td style="color:black"><nobr>Teenage Panzerkorps</nobr></td>
+				<td style="color:black"><nobr><a href="http://spidey.kfjc.org/?p=3148">Games For Slaves</a></nobr></td>
+			</tr>
+
+			<tr bgcolor="#ffffff">
+				<td style="color:black"><nobr>3</nobr></td>
+				<td style="color:black"><nobr>Ulaan Khol</nobr></td>
+
+				<td style="color:black"><nobr><a href="http://spidey.kfjc.org/?p=3335">II</a></nobr></td>
+			</tr>
+
+			<tr bgcolor="#ffffff">
+				<td style="color:black"><nobr>3</nobr></td>
+				<td style="color:black"><nobr>Akimbo</nobr></td>
+				<td style="color:black"><nobr>Jersey Shores</nobr></td>
+
+			</tr>
+
+			<tr bgcolor="#ffffff">
+				<td style="color:black"><nobr>3</nobr></td>
+				<td style="color:black"><nobr>Ulher, Birgit / Ulrich Phillipp / Roger Turner</nobr></td>
+				<td style="color:black"><nobr>Umlaut</nobr></td>
+			</tr>
+
+			<tr bgcolor="#ffffff">
+				<td style="color:black"><nobr>3</nobr></td>
+				<td style="color:black"><nobr>Dolphy, Eric</nobr></td>
+				<td style="color:black"><nobr><a href="http://spidey.kfjc.org/?p=3248">Out There</a></nobr></td>
+			</tr>
+
+			<tr bgcolor="#ffffff">
+				<td style="color:black"><nobr>2</nobr></td>
+
+				<td style="color:black"><nobr>Elk/Carrion</nobr></td>
+				<td style="color:black"><nobr>St Split</nobr></td>
+			</tr>
+
+			<tr bgcolor="#ffffff">
+				<td style="color:black"><nobr>2</nobr></td>
+				<td style="color:black"><nobr>Zeitkratzer and Thaemlitz, Terre</nobr></td>
+
+				<td style="color:black"><nobr>Electronics</nobr></td>
+			</tr>
+
+			<tr bgcolor="#ffffff">
+				<td style="color:black"><nobr>2</nobr></td>
+				<td style="color:black"><nobr>Ebtekar, Ata & The Iranian Orchestra For New Music</nobr></td>
+				<td style="color:black"><nobr>Ornamental</nobr></td>
+
+			</tr>
+
+			<tr bgcolor="#ffffff">
+				<td style="color:black"><nobr>2</nobr></td>
+				<td style="color:black"><nobr>Lawrence</nobr></td>
+				<td style="color:black"><nobr>Miles</nobr></td>
+			</tr>
+
+			<tr bgcolor="#ffffff">
+				<td style="color:black"><nobr>2</nobr></td>
+				<td style="color:black"><nobr>Branch, Andru and The Halfway Tree</nobr></td>
+				<td style="color:black"><nobr>My Jamaican Weed / Check Out The Real Deal</nobr></td>
+			</tr>
+
+			<tr bgcolor="#ffffff">
+				<td style="color:black"><nobr>2</nobr></td>
+
+				<td style="color:black"><nobr>Dixon, Bill Orchestra</nobr></td>
+				<td style="color:black"><nobr><a href="http://spidey.kfjc.org/?p=3341">17 Musicians In Search of a Sound:Darfur</a></nobr></td>
+			</tr>
+
+			<tr bgcolor="#ffffff">
+				<td style="color:black"><nobr>2</nobr></td>
+				<td style="color:black"><nobr>Various Artists</nobr></td>
+
+				<td style="color:black"><nobr><a href="http://spidey.kfjc.org/?p=3448">Sick Llama/Fossils</a></nobr></td>
+			</tr>
+
+			<tr bgcolor="#ffffff">
+				<td style="color:black"><nobr>2</nobr></td>
+				<td style="color:black"><nobr>Various Artists</nobr></td>
+				<td style="color:black"><nobr>50303grind</nobr></td>
+
+			</tr>
+
+			<tr bgcolor="#ffffff">
+				<td style="color:black"><nobr>2</nobr></td>
+				<td style="color:black"><nobr>Dragon Fli Empire</nobr></td>
+				<td style="color:black"><nobr>Redefine</nobr></td>
+			</tr>
+
+			<tr bgcolor="#ffffff">
+				<td style="color:black"><nobr>2</nobr></td>
+				<td style="color:black"><nobr>Monkey Power Trio</nobr></td>
+				<td style="color:black"><nobr><a href="http://spidey.kfjc.org/?p=3311">Lest We Be Misunderstook</a></nobr></td>
+			</tr>
+
+			<tr bgcolor="#ffffff">
+				<td style="color:black"><nobr>2</nobr></td>
+
+				<td style="color:black"><nobr>Various Artists</nobr></td>
+				<td style="color:black"><nobr><a href="http://spidey.kfjc.org/?p=3308">Tower/Wind Chant, The</a></nobr></td>
+			</tr>
+
+			<tr bgcolor="#ffffff">
+				<td style="color:black"><nobr>2</nobr></td>
+				<td style="color:black"><nobr>Various Artists</nobr></td>
+
+				<td style="color:black"><nobr>Asphalt Legion</nobr></td>
+			</tr>
+
+			<tr bgcolor="#ffffff">
+				<td style="color:black"><nobr>2</nobr></td>
+				<td style="color:black"><nobr>Cacaw</nobr></td>
+				<td style="color:black"><nobr><a href="http://spidey.kfjc.org/?p=3325">Get a Brain</a></nobr></td>
+
+			</tr>
+
+			<tr bgcolor="#ffffff">
+				<td style="color:black"><nobr>2</nobr></td>
+				<td style="color:black"><nobr>Kaukonen, Jorma</nobr></td>
+				<td style="color:black"><nobr>River of Time</nobr></td>
+			</tr>
+
+			<tr bgcolor="#ffffff">
+				<td style="color:black"><nobr>2</nobr></td>
+				<td style="color:black"><nobr>Various Artists</nobr></td>
+				<td style="color:black"><nobr><a href="http://spidey.kfjc.org/?p=3295">Passionistas / Hard Place</a></nobr></td>
+			</tr>
+
+			<tr bgcolor="#ffffff">
+				<td style="color:black"><nobr>2</nobr></td>
+
+				<td style="color:black"><nobr>Robinson, Eugene S.</nobr></td>
+				<td style="color:black"><nobr><a href="http://spidey.kfjc.org/?p=3336">Fight: Everything You Ever Wanted to Know About Ass-kicking</a></nobr></td>
+			</tr>
+
+			<tr bgcolor="#ffffff">
+				<td style="color:black"><nobr>2</nobr></td>
+				<td style="color:black"><nobr>Cold Sun</nobr></td>
+
+				<td style="color:black"><nobr>Dark Shadows</nobr></td>
+			</tr>
+
+			<tr bgcolor="#ffffff">
+				<td style="color:black"><nobr>2</nobr></td>
+				<td style="color:black"><nobr>Cock Esp</nobr></td>
+				<td style="color:black"><nobr>Greatest Dicks 3</nobr></td>
+
+			</tr>
+
+			<tr bgcolor="#ffffff">
+				<td style="color:black"><nobr>2</nobr></td>
+				<td style="color:black"><nobr>Slicnaton</nobr></td>
+				<td style="color:black"><nobr>Noisefloor EP</nobr></td>
+			</tr>
+
+			<tr bgcolor="#ffffff">
+				<td style="color:black"><nobr>2</nobr></td>
+				<td style="color:black"><nobr>P.A.R.A.</nobr></td>
+				<td style="color:black"><nobr>Mermalien</nobr></td>
+			</tr>
+
+			<tr bgcolor="#ffffff">
+				<td style="color:black"><nobr>2</nobr></td>
+
+				<td style="color:black"><nobr>Sondheim, Alan</nobr></td>
+				<td style="color:black"><nobr>Ritual-All-7-70</nobr></td>
+			</tr>
+
+			<tr bgcolor="#ffffff">
+				<td style="color:black"><nobr>2</nobr></td>
+				<td style="color:black"><nobr>Fibrillation</nobr></td>
+
+				<td style="color:black"><nobr>My Axis Is Undone</nobr></td>
+			</tr>
+
+			<tr bgcolor="#ffffff">
+				<td style="color:black"><nobr>2</nobr></td>
+				<td style="color:black"><nobr>Various Artists</nobr></td>
+				<td style="color:black"><nobr>Grouper / Inca Ore</nobr></td>
+
+			</tr>
+
+			<tr bgcolor="#ffffff">
+				<td style="color:black"><nobr>2</nobr></td>
+				<td style="color:black"><nobr>Various Artists</nobr></td>
+				<td style="color:black"><nobr>North Sea / Corsican Paintbrush</nobr></td>
+			</tr>
+
+			<tr bgcolor="#ffffff">
+				<td style="color:black"><nobr>2</nobr></td>
+				<td style="color:black"><nobr>Aan Meets Eyes Like Saucers</nobr></td>
+				<td style="color:black"><nobr>Kristallivirta</nobr></td>
+			</tr>
+
+			<tr bgcolor="#ffffff">
+				<td style="color:black"><nobr>2</nobr></td>
+
+				<td style="color:black"><nobr>Various Artists</nobr></td>
+				<td style="color:black"><nobr>(Italian Girls Like) Ear-Catching Melodies</nobr></td>
+			</tr>
+
+			<tr bgcolor="#ffffff">
+				<td style="color:black"><nobr>2</nobr></td>
+				<td style="color:black"><nobr>Various Artists</nobr></td>
+
+				<td style="color:black"><nobr><a href="http://spidey.kfjc.org/?p=3151">Give Me Love : Songs of The Brokenhearted - Baghdad, 1925-29</a></nobr></td>
+			</tr>
+
+			<tr bgcolor="#ffffff">
+				<td style="color:black"><nobr>2</nobr></td>
+				<td style="color:black"><nobr>Triclops!</nobr></td>
+				<td style="color:black"><nobr><a href="http://spidey.kfjc.org/?p=3291">Out of Africa</a></nobr></td>
+
+			</tr>
+
+			<tr bgcolor="#ffffff">
+				<td style="color:black"><nobr>2</nobr></td>
+				<td style="color:black"><nobr>Missbrukarna</nobr></td>
+				<td style="color:black"><nobr>Krigets Gentleman</nobr></td>
+			</tr>
+
+			<tr bgcolor="#ffffff">
+				<td style="color:black"><nobr>2</nobr></td>
+				<td style="color:black"><nobr>Dyer, Eddy</nobr></td>
+				<td style="color:black"><nobr>...Into Doves of Grey</nobr></td>
+			</tr>
+
+			<tr bgcolor="#ffffff">
+				<td style="color:black"><nobr>2</nobr></td>
+
+				<td style="color:black"><nobr>Lambchop</nobr></td>
+				<td style="color:black"><nobr>Oh (ohio)</nobr></td>
+			</tr>
+
+			<tr bgcolor="#ffffff">
+				<td style="color:black"><nobr>2</nobr></td>
+				<td style="color:black"><nobr>Various Artists</nobr></td>
+
+				<td style="color:black"><nobr><a href="http://spidey.kfjc.org/?p=3146">High School Record</a></nobr></td>
+			</tr>
+
+			<tr bgcolor="#ffffff">
+				<td style="color:black"><nobr>2</nobr></td>
+				<td style="color:black"><nobr>Pearls Before Swine</nobr></td>
+				<td style="color:black"><nobr>Balaklava</nobr></td>
+
+			</tr>
+
+			<tr bgcolor="#ffffff">
+				<td style="color:black"><nobr>2</nobr></td>
+				<td style="color:black"><nobr>Marley, Stephen</nobr></td>
+				<td style="color:black"><nobr>Mind Control</nobr></td>
+			</tr>
+
+			<tr bgcolor="#ffffff">
+				<td style="color:black"><nobr>2</nobr></td>
+				<td style="color:black"><nobr>Kush Arora</nobr></td>
+				<td style="color:black"><nobr>People Are Dead/sex+violence</nobr></td>
+			</tr>
+
+			<tr bgcolor="#ffffff">
+				<td style="color:black"><nobr>2</nobr></td>
+
+				<td style="color:black"><nobr>Yellowman Feat. Fathead</nobr></td>
+				<td style="color:black"><nobr><a href="http://spidey.kfjc.org/?p=3340">Just Cool</a></nobr></td>
+			</tr>
+
+			<tr bgcolor="#ffffff">
+				<td style="color:black"><nobr>2</nobr></td>
+				<td style="color:black"><nobr>Beequeen</nobr></td>
+
+				<td style="color:black"><nobr>Music For The Head Ballet</nobr></td>
+			</tr>
+
+			<tr bgcolor="#ffffff">
+				<td style="color:black"><nobr>1</nobr></td>
+				<td style="color:black"><nobr>Good For Cows</nobr></td>
+				<td style="color:black"><nobr>Bebop Fantasy By</nobr></td>
+
+			</tr>
+
+			<tr bgcolor="#ffffff">
+				<td style="color:black"><nobr>1</nobr></td>
+				<td style="color:black"><nobr>Johnston, Darren</nobr></td>
+				<td style="color:black"><nobr><a href="http://spidey.kfjc.org/?p=3468">Edge of The Forest, The</a></nobr></td>
+			</tr>
+
+			<tr bgcolor="#ffffff">
+				<td style="color:black"><nobr>1</nobr></td>
+				<td style="color:black"><nobr>Allen, Cory</nobr></td>
+				<td style="color:black"><nobr>Fourth Way, The</nobr></td>
+			</tr>
+
+			<tr bgcolor="#ffffff">
+				<td style="color:black"><nobr>1</nobr></td>
+
+				<td style="color:black"><nobr>Fowler, Jarrod</nobr></td>
+				<td style="color:black"><nobr><a href="http://spidey.kfjc.org/?p=3462">Percussion As Percussion</a></nobr></td>
+			</tr>
+
+			<tr bgcolor="#ffffff">
+				<td style="color:black"><nobr>1</nobr></td>
+				<td style="color:black"><nobr>Thames</nobr></td>
+
+				<td style="color:black"><nobr>Hot Room</nobr></td>
+			</tr>
+
+			<tr bgcolor="#ffffff">
+				<td style="color:black"><nobr>1</nobr></td>
+				<td style="color:black"><nobr>Various Artists</nobr></td>
+				<td style="color:black"><nobr>23 Drifts to Guestling</nobr></td>
+
+			</tr>
+
+			<tr bgcolor="#ffffff">
+				<td style="color:black"><nobr>1</nobr></td>
+				<td style="color:black"><nobr>S.V.E.S.T.</nobr></td>
+				<td style="color:black"><nobr>Veritas Diaboli Manet Aeternum</nobr></td>
+			</tr>
+
+			<tr bgcolor="#ffffff">
+				<td style="color:black"><nobr>1</nobr></td>
+				<td style="color:black"><nobr>Ware, Davis S.</nobr></td>
+				<td style="color:black"><nobr>Shakti</nobr></td>
+			</tr>
+
+			<tr bgcolor="#ffffff">
+				<td style="color:black"><nobr>1</nobr></td>
+
+				<td style="color:black"><nobr>Various Artists</nobr></td>
+				<td style="color:black"><nobr><a href="http://spidey.kfjc.org/?p=3442">Texas-Mexican Border Music Vol.1</a></nobr></td>
+			</tr>
+
+			<tr bgcolor="#ffffff">
+				<td style="color:black"><nobr>1</nobr></td>
+				<td style="color:black"><nobr>Silent Land Time Machine</nobr></td>
+
+				<td style="color:black"><nobr><a href="http://spidey.kfjc.org/?p=3316">&hope Still</a></nobr></td>
+			</tr>
+
+			<tr bgcolor="#ffffff">
+				<td style="color:black"><nobr>1</nobr></td>
+				<td style="color:black"><nobr>French Quarter</nobr></td>
+				<td style="color:black"><nobr><a href="http://spidey.kfjc.org/?p=3312">French Quarter</a></nobr></td>
+
+			</tr>
+
+			<tr bgcolor="#ffffff">
+				<td style="color:black"><nobr>1</nobr></td>
+				<td style="color:black"><nobr>Cosi, Valerio/Franchini, Enzo</nobr></td>
+				<td style="color:black"><nobr><a href="http://spidey.kfjc.org/?p=3313">Conference of The Aquarians</a></nobr></td>
+			</tr>
+
+			<tr bgcolor="#ffffff">
+				<td style="color:black"><nobr>1</nobr></td>
+				<td style="color:black"><nobr>Attar Cups</nobr></td>
+				<td style="color:black"><nobr>Attar Cups</nobr></td>
+			</tr>
+
+			<tr bgcolor="#ffffff">
+				<td style="color:black"><nobr>1</nobr></td>
+
+				<td style="color:black"><nobr>Dimuzio, Thomas</nobr></td>
+				<td style="color:black"><nobr>Markoff Process</nobr></td>
+			</tr>
+
+			<tr bgcolor="#ffffff">
+				<td style="color:black"><nobr>1</nobr></td>
+				<td style="color:black"><nobr>C.O.M.A.</nobr></td>
+
+				<td style="color:black"><nobr><a href="http://spidey.kfjc.org/?p=3342">California Outside Music Associates</a></nobr></td>
+			</tr>
+
+			<tr bgcolor="#ffffff">
+				<td style="color:black"><nobr>1</nobr></td>
+				<td style="color:black"><nobr>Create(!)</nobr></td>
+				<td style="color:black"><nobr><a href="http://spidey.kfjc.org/?p=3343">a Prospect of Freedom</a></nobr></td>
+
+			</tr>
+
+			<tr bgcolor="#ffffff">
+				<td style="color:black"><nobr>1</nobr></td>
+				<td style="color:black"><nobr>Various Artists</nobr></td>
+				<td style="color:black"><nobr><a href="http://spidey.kfjc.org/?p=3296">Shearing Pinx / Stamina Mantis</a></nobr></td>
+			</tr>
+
+			<tr bgcolor="#ffffff">
+				<td style="color:black"><nobr>1</nobr></td>
+				<td style="color:black"><nobr>Baseline</nobr></td>
+				<td style="color:black"><nobr>Estado Liquido</nobr></td>
+			</tr>
+
+			<tr bgcolor="#ffffff">
+				<td style="color:black"><nobr>1</nobr></td>
+
+				<td style="color:black"><nobr>Zilverhill</nobr></td>
+				<td style="color:black"><nobr><a href="http://spidey.kfjc.org/?p=3252">+eotvos+</a></nobr></td>
+			</tr>
+
+			<tr bgcolor="#ffffff">
+				<td style="color:black"><nobr>1</nobr></td>
+				<td style="color:black"><nobr>Various Artists</nobr></td>
+
+				<td style="color:black"><nobr>Monolith: Jupiter</nobr></td>
+			</tr>
+
+			<tr bgcolor="#ffffff">
+				<td style="color:black"><nobr>1</nobr></td>
+				<td style="color:black"><nobr>Scorces</nobr></td>
+				<td style="color:black"><nobr>I Turn Into You</nobr></td>
+
+			</tr>
+
+			<tr bgcolor="#ffffff">
+				<td style="color:black"><nobr>1</nobr></td>
+				<td style="color:black"><nobr>Oxbow</nobr></td>
+				<td style="color:black"><nobr>Narcotic Story, The</nobr></td>
+			</tr>
+
+			<tr bgcolor="#ffffff">
+				<td style="color:black"><nobr>1</nobr></td>
+				<td style="color:black"><nobr>Bradford, Bobby Extet</nobr></td>
+				<td style="color:black"><nobr><a href="http://spidey.kfjc.org/?p=3247">Midnight Pacific Airwaves</a></nobr></td>
+			</tr>
+
+			<tr bgcolor="#ffffff">
+				<td style="color:black"><nobr>1</nobr></td>
+
+				<td style="color:black"><nobr>Homostupids</nobr></td>
+				<td style="color:black"><nobr>Edge EP, The</nobr></td>
+			</tr>
+
+			<tr bgcolor="#ffffff">
+				<td style="color:black"><nobr>1</nobr></td>
+				<td style="color:black"><nobr>Odal</nobr></td>
+
+				<td style="color:black"><nobr>On Old Paths</nobr></td>
+			</tr>
+
+			<tr bgcolor="#ffffff">
+				<td style="color:black"><nobr>1</nobr></td>
+				<td style="color:black"><nobr>Hans  Grusel's Krankenkabinet</nobr></td>
+				<td style="color:black"><nobr>Blaue Blooded Turen</nobr></td>
+
+			</tr>
+
+			<tr bgcolor="#ffffff">
+				<td style="color:black"><nobr>1</nobr></td>
+				<td style="color:black"><nobr>Murcof</nobr></td>
+				<td style="color:black"><nobr><a href="http://spidey.kfjc.org/?p=3294">Versailles Sessions, The</a></nobr></td>
+			</tr>
+
+			<tr bgcolor="#ffffff">
+				<td style="color:black"><nobr>1</nobr></td>
+				<td style="color:black"><nobr>Regulations</nobr></td>
+				<td style="color:black"><nobr>Different Needs</nobr></td>
+			</tr>
+
+			<tr bgcolor="#ffffff">
+				<td style="color:black"><nobr>1</nobr></td>
+
+				<td style="color:black"><nobr>Tuymans, Luc & Miroslav Balka</nobr></td>
+				<td style="color:black"><nobr><a href="http://spidey.kfjc.org/?p=3324">Crazy Horses</a></nobr></td>
+			</tr>
+
+			<tr bgcolor="#ffffff">
+				<td style="color:black"><nobr>1</nobr></td>
+				<td style="color:black"><nobr>Grubbs, David</nobr></td>
+
+				<td style="color:black"><nobr>An Optimist Notes The Dusk</nobr></td>
+			</tr>
+
+			<tr bgcolor="#ffffff">
+				<td style="color:black"><nobr>1</nobr></td>
+				<td style="color:black"><nobr>Necrite</nobr></td>
+				<td style="color:black"><nobr>Bereft of Hope</nobr></td>
+
+			</tr>
+
+			<tr bgcolor="#ffffff">
+				<td style="color:black"><nobr>1</nobr></td>
+				<td style="color:black"><nobr>Jeck, Philip</nobr></td>
+				<td style="color:black"><nobr>Suite. Live In Liverpool</nobr></td>
+			</tr>
+
+			<tr bgcolor="#ffffff">
+				<td style="color:black"><nobr>1</nobr></td>
+				<td style="color:black"><nobr>Connors, Loren</nobr></td>
+				<td style="color:black"><nobr><a href="http://spidey.kfjc.org/?p=3292">Moon Last Night, The</a></nobr></td>
+			</tr>
+
+			<tr bgcolor="#ffffff">
+				<td style="color:black"><nobr>1</nobr></td>
+
+				<td style="color:black"><nobr>Dragging an Ox Through Water</nobr></td>
+				<td style="color:black"><nobr>Tropics of Phenomenon, The</nobr></td>
+			</tr>
+
+			<tr bgcolor="#ffffff">
+				<td style="color:black"><nobr>1</nobr></td>
+				<td style="color:black"><nobr>Skull Defekts, The</nobr></td>
+
+				<td style="color:black"><nobr>Drone Drug, The</nobr></td>
+			</tr>
+
+			<tr bgcolor="#ffffff">
+				<td style="color:black"><nobr>1</nobr></td>
+				<td style="color:black"><nobr>Broderick, Peter</nobr></td>
+				<td style="color:black"><nobr>Float</nobr></td>
+
+			</tr>
+
+			<tr bgcolor="#ffffff">
+				<td style="color:black"><nobr>1</nobr></td>
+				<td style="color:black"><nobr>Dead Ghosts</nobr></td>
+				<td style="color:black"><nobr>Holy Ghost</nobr></td>
+			</tr>
+
+			<tr bgcolor="#ffffff">
+				<td style="color:black"><nobr>1</nobr></td>
+				<td style="color:black"><nobr>Merzbow</nobr></td>
+				<td style="color:black"><nobr>Rainbow Electronics 2</nobr></td>
+			</tr>
+
+			<tr bgcolor="#ffffff">
+				<td style="color:black"><nobr>1</nobr></td>
+
+				<td style="color:black"><nobr>Various Artists</nobr></td>
+				<td style="color:black"><nobr>Blank Field</nobr></td>
+			</tr>
+
+			<tr bgcolor="#ffffff">
+				<td style="color:black"><nobr>1</nobr></td>
+				<td style="color:black"><nobr>Warmth</nobr></td>
+
+				<td style="color:black"><nobr><a href="http://spidey.kfjc.org/?p=3463">Leave Your Wet Brain In The Hot Sun</a></nobr></td>
+			</tr>
+
+			<tr bgcolor="#ffffff">
+				<td style="color:black"><nobr>1</nobr></td>
+				<td style="color:black"><nobr>pocahaunted</nobr></td>
+				<td style="color:black"><nobr>Island Diamonds</nobr></td>
+
+			</tr>
+
+
+		</table>
+		<!-- End Top Plays Table -->
+
+
+		</td>
+	</tr>
+</table>
+<p>&nbsp;</p>
+&nbsp;<a href="/main/legal.php">Copyright&copy; 2009</a>  &nbsp;  KFJC 89.7 FM  
+
+<br>12345 S. El Monte Road &nbsp; Los Altos Hills, California &nbsp;  94022
+
+ &nbsp; <a href="http://www.kfjc.org/main/contact/index.php"> phones</a> 
+ &nbsp; <a href="http://search.freefind.com/find.html?id=35104161"> search</a> &nbsp; <a href="http://search.freefind.com/find.html?id=35104161&m=0&p=0"> site map</a>
+
+<script src="http://www.google-analytics.com/urchin.js" type="text/javascript">
+</script>
+<script type="text/javascript">
+_uacct = "UA-144146-2";
+_udn="kfjc.org";
+urchinTracker();
+</script>
+
+</body>
+</html>
+
+
