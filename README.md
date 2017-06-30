@@ -3,6 +3,12 @@ Top o' the plops - weekly top hit statistics from the music department
 
 Here lies the archive of weekly hits dating back to 1997. It is published on the public website, but with the 'archival' flavor of this 40Mb+ of content it didn't make sense to include it in the mainline website repo. Instead, it's linked in as a module.
 
+## How to update
+1. `git clone` this repo
+2. Follow TH's weekly hand curation method below
+3. `git add`, `git commit`, `git push` as appropriate
+4. Ping a website owner (Earl Grey or Fox Populi, as of July 2017) and ask them to push the changes. Or do nothing and wait until these changes are picked up in the next website push.
+
 ## Thurston Hunger's weekly hand curation method
 1. Run a report for a week, eg. http://spidey.kfjc.org/numa/tops/index.php?sd=20160727&ed=20160803 
 2. View the Source of that output and pluck out the info from the `<!-- Begin Top Plays Table -->` on down to the end of the file.
